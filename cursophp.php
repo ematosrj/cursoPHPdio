@@ -6,7 +6,7 @@ $ValorDia = 80;
 $gorgetas = 40;
 
 $valorDiaria = $ValorDia + $gorgetas;
-echo "Segunda-Feira : $valorDiaria\n"; //\n significa que tem que pular uma linha.
+echo "Segunda-Feira : $valorDiaria\n"; //\n significa pula uma linha.
 
 $gorgetas = 15;
 $valorDiaria = $ValorDia + $gorgetas;
