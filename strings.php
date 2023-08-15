@@ -16,5 +16,17 @@ echo "$soma";
 $texto = "<h1>Texto h1</h1>"; //quando se adiciona um html a string abre pelo localhost para observar o resultado.
 echo $texto;
 
+//quebra de linha
+//$mensagem = "Olá, \"Mundo\"!"; // Inclusão de aspas duplas dentro da string
+//$novaLinha = "Primeira linha\nSegunda linha"; // Quebra de linha
+//$tabulacao = "Texto antes\tTexto depois"; // Tabulação
+
+//outros tipos de strings
+//$nomeCompleto = $nome . " " . $sobrenome; // Concatenação de strings
+//$tamanho = strlen($nomeCompleto); // Obtém o comprimento da string
+//$maiusculas = strtoupper($nomeCompleto); // Converte para maiúsculas
+//$minusculas = strtolower($nomeCompleto); // Converte para minúsculas
+//$substituir = str_replace("João", "Maria", $nomeCompleto); // Substitui parte da string
+
 
 ?>
