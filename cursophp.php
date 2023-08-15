@@ -12,4 +12,6 @@ $gorgetas = 15;
 $valorDiaria = $ValorDia + $gorgetas;
 
 echo "Terça-Feira: $valorDiaria";
+
+
 ?>
